@@ -1,4 +1,5 @@
 import { SectionHero } from "@/components/SectionHero";
+import { SectionServices } from "@/components/SectionServices";
 
 
 export default function Home() {
@@ -6,6 +7,7 @@ export default function Home() {
     <div>
 
     <SectionHero/>
+    <SectionServices/>
     </div>
     );
 }
