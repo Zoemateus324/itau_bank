@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SOS Mecânicos",
-  description: "Um sistema que ira conectar você com mecânicos em tempo real",
+  title: "Itaú Bank",
+  description: "Seu banco na palma da mão!",
 };
 
 export default function RootLayout({

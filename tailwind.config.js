@@ -19,7 +19,7 @@ module.exports = {
         'primary-orange': '#EC7000',
         'primary-gray': '#33303E',
         'secondary-gray': '#4E4B59',
-        'gray-car': '#4E4B59',
+        'gray-phone': '#F0F4F5',
         'txt-gray': '#7A7786',
         'opacity-gray': 'rgba(100,80,57,0.1)',
         
